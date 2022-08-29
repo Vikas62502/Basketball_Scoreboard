@@ -1,9 +1,6 @@
 let incre = 0;
 let inc=0;
 
-
-
-
 function increment1 (){
     
     var increment = document.getElementById('box1');
